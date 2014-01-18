@@ -1,0 +1,4 @@
+Protocol implementations for Twisted
+
+OSCAR - modified version of Twisted's provided implementation to handle protocol updates
+YMSG - my custom implementation of YMSG protocol for basic text-based messaging and presence notifications
